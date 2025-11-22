@@ -1,0 +1,127 @@
+{
+  "status": "success",
+  "timestamp": "2024-11-22T10:30:00Z",
+  "total": 12,
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Notebook Dell Inspiron 15",
+      "descricao": "Intel i7, 16GB RAM, SSD 512GB",
+      "preco": 3599.90,
+      "categoria": "eletronicos",
+      "imagem": "https://via.placeholder.com/300x200?text=Notebook",
+      "estoque": 15,
+      "avaliacao": 4.5
+    },
+    {
+      "id": 2,
+      "nome": "Smartphone Samsung Galaxy S23",
+      "descricao": "128GB, 5G, Câmera 50MP",
+      "preco": 2899.00,
+      "categoria": "eletronicos",
+      "imagem": "https://via.placeholder.com/300x200?text=Smartphone",
+      "estoque": 30,
+      "avaliacao": 4.8
+    },
+    {
+      "id": 3,
+      "nome": "Camiseta Nike Dri-FIT",
+      "descricao": "Tecnologia anti-suor, várias cores",
+      "preco": 149.90,
+      "categoria": "roupas",
+      "imagem": "https://via.placeholder.com/300x200?text=Camiseta",
+      "estoque": 50,
+      "avaliacao": 4.3
+    },
+    {
+      "id": 4,
+      "nome": "Livro: Clean Code",
+      "descricao": "Robert C. Martin - Código Limpo",
+      "preco": 89.90,
+      "categoria": "livros",
+      "imagem": "https://via.placeholder.com/300x200?text=Clean+Code",
+      "estoque": 25,
+      "avaliacao": 5.0
+    },
+    {
+      "id": 5,
+      "nome": "Mouse Logitech MX Master 3",
+      "descricao": "Ergonômico, sem fio, 7 botões",
+      "preco": 549.00,
+      "categoria": "eletronicos",
+      "imagem": "https://via.placeholder.com/300x200?text=Mouse",
+      "estoque": 20,
+      "avaliacao": 4.7
+    },
+    {
+      "id": 6,
+      "nome": "Calça Jeans Levi's 501",
+      "descricao": "Clássica, corte reto",
+      "preco": 299.90,
+      "categoria": "roupas",
+      "imagem": "https://via.placeholder.com/300x200?text=Calca+Jeans",
+      "estoque": 40,
+      "avaliacao": 4.6
+    },
+    {
+      "id": 7,
+      "nome": "Livro: Design Patterns",
+      "descricao": "Gang of Four - Padrões de Projeto",
+      "preco": 129.90,
+      "categoria": "livros",
+      "imagem": "https://via.placeholder.com/300x200?text=Design+Patterns",
+      "estoque": 18,
+      "avaliacao": 4.9
+    },
+    {
+      "id": 8,
+      "nome": "Teclado Mecânico Keychron K2",
+      "descricao": "RGB, Switches Brown, Bluetooth",
+      "preco": 689.00,
+      "categoria": "eletronicos",
+      "imagem": "https://via.placeholder.com/300x200?text=Teclado",
+      "estoque": 12,
+      "avaliacao": 4.8
+    },
+    {
+      "id": 9,
+      "nome": "Jaqueta Adidas Windbreaker",
+      "descricao": "Impermeável, leve",
+      "preco": 399.90,
+      "categoria": "roupas",
+      "imagem": "https://via.placeholder.com/300x200?text=Jaqueta",
+      "estoque": 22,
+      "avaliacao": 4.4
+    },
+    {
+      "id": 10,
+      "nome": "Livro: JavaScript: The Good Parts",
+      "descricao": "Douglas Crockford",
+      "preco": 79.90,
+      "categoria": "livros",
+      "imagem": "https://via.placeholder.com/300x200?text=JavaScript",
+      "estoque": 30,
+      "avaliacao": 4.5
+    },
+    {
+      "id": 11,
+      "nome": "Webcam Logitech C920",
+      "descricao": "Full HD 1080p, microfone integrado",
+      "preco": 449.00,
+      "categoria": "eletronicos",
+      "imagem": "https://via.placeholder.com/300x200?text=Webcam",
+      "estoque": 28,
+      "avaliacao": 4.6
+    },
+    {
+      "id": 12,
+      "nome": "Tênis Nike Air Max",
+      "descricao": "Conforto e estilo",
+      "preco": 599.90,
+      "categoria": "roupas",
+      "imagem": "https://via.placeholder.com/300x200?text=Tenis",
+      "estoque": 35,
+      "avaliacao": 4.7
+    }
+  ]
+}

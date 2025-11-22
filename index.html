@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Commerce Brasil - XMLHttpRequest Demo</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- HEADER -->
+    <header>
+        <div class="container">
+            <h1>🛒 E-Commerce Brasil</h1>
+            <div class="header-actions">
+                <div class="search-box">
+                    <input type="text" id="input-busca" placeholder="Buscar produtos...">
+                    <button id="btn-buscar">🔍 Buscar</button>
+                </div>
+                <div class="cart-icon">
+                    🛒 Carrinho
+                    <span id="cart-count" class="badge" style="display: none;">0</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- LOADING INDICATOR -->
+    <div id="loading" class="loading" style="display: none;">
+        <div class="spinner"></div>
+        <p>Carregando...</p>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <main class="container">
+        <section class="intro">
+            <h2>Demonstração: Processamento Assíncrono com XMLHttpRequest</h2>
+            <p>Esta página demonstra o uso de requisições assíncronas para carregar produtos dinamicamente sem recarregar a página.</p>
+            
+            <div class="info-box">
+                <h3>🔄 Como funciona:</h3>
+                <ol>
+                    <li><strong>Usuário acessa a página</strong> → Evento disparado</li>
+                    <li><strong>JavaScript cria XMLHttpRequest</strong> → Objeto instanciado</li>
+                    <li><strong>Configura requisição</strong> → open() com método e URL</li>
+                    <li><strong>Define callbacks</strong> → onreadystatechange monitora progresso</li>
+                    <li><strong>Envia requisição</strong> → send() para servidor</li>
+                    <li><strong>Servidor processa</strong> → API REST retorna JSON</li>
+                    <li><strong>Resposta retorna</strong> → readyState = 4, status = 200</li>
+                    <li><strong>JavaScript processa</strong> → JSON.parse() dos dados</li>
+                    <li><strong>Atualiza DOM</strong> → Interface atualizada dinamicamente</li>
+                    <li><strong>Usuário vê resultado</strong> → Sem reload da página</li>
+                </ol>
+            </div>
+        </section>
+
+        <!-- FILTROS -->
+        <section class="filters">
+            <h3>Filtros</h3>
+            <button class="filter-btn active" data-categoria="todos">Todos</button>
+            <button class="filter-btn" data-categoria="eletronicos">Eletrônicos</button>
+            <button class="filter-btn" data-categoria="roupas">Roupas</button>
+            <button class="filter-btn" data-categoria="livros">Livros</button>
+        </section>
+
+        <!-- PRODUTOS -->
+        <section class="products-section">
+            <h2>Produtos</h2>
+            <div id="produtos-container" class="products-grid">
+                <p>Carregando produtos...</p>
+            </div>
+        </section>
+
+        <!-- ESTATÍSTICAS EM TEMPO REAL -->
+        <section class="stats">
+            <h3>📊 Estatísticas da Sessão</h3>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <span class="stat-value" id="stat-requests">0</span>
+                    <span class="stat-label">Requisições feitas</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-value" id="stat-products">0</span>
+                    <span class="stat-label">Produtos carregados</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-value" id="stat-time">0ms</span>
+                    <span class="stat-label">Tempo médio</span>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- FOOTER -->
+    <footer>
+        <div class="container">
+            <p>© 2024 E-Commerce Brasil - Demonstração XMLHttpRequest</p>
+            <p>Arquitetura de Interoperabilidade Web</p>
+        </div>
+    </footer>
+
+    <!-- SCRIPTS -->
+    <script src="js/ajax-handler.js"></script>
+    <script src="js/products.js"></script>
+    <script src="js/cart.js"></script>
+    <script src="js/stats.js"></script>
+</body>
+</html>

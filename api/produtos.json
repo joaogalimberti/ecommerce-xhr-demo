@@ -19,7 +19,7 @@
       "descricao": "128GB, 5G, Câmera 50MP",
       "preco": 2899.00,
       "categoria": "eletronicos",
-      "imagem": "https://via.placeholder.com/300x200?text=Smartphone",
+      "imagem": "https://a-static.mlcdn.com.br/%7Bw%7Dx%7Bh%7D/smartphone-samsung-galaxy-s23-128gb-preto-5g-8gb-ram-61-cam-tripla-selfie-12mp/magazineluiza/232853700/e9fd12e9a66f2797bce34c5169369937.jpg",
       "estoque": 30,
       "avaliacao": 4.8
     },
@@ -29,7 +29,7 @@
       "descricao": "Tecnologia anti-suor, várias cores",
       "preco": 149.90,
       "categoria": "roupas",
-      "imagem": "https://via.placeholder.com/300x200?text=Camiseta",
+      "imagem": "https://imgcentauro-a.akamaihd.net/1200x1200/M0VBFY02A4.jpg",
       "estoque": 50,
       "avaliacao": 4.3
     },
@@ -39,7 +39,7 @@
       "descricao": "Robert C. Martin - Código Limpo",
       "preco": 89.90,
       "categoria": "livros",
-      "imagem": "https://via.placeholder.com/300x200?text=Clean+Code",
+      "imagem": "https://m.media-amazon.com/images/I/71nj3JM-igL.jpg",
       "estoque": 25,
       "avaliacao": 5.0
     },
@@ -49,7 +49,7 @@
       "descricao": "Ergonômico, sem fio, 7 botões",
       "preco": 549.00,
       "categoria": "eletronicos",
-      "imagem": "https://via.placeholder.com/300x200?text=Mouse",
+      "imagem": "https://m.media-amazon.com/images/I/51nvDczrU+L.jpg",
       "estoque": 20,
       "avaliacao": 4.7
     },
@@ -59,7 +59,7 @@
       "descricao": "Clássica, corte reto",
       "preco": 299.90,
       "categoria": "roupas",
-      "imagem": "https://via.placeholder.com/300x200?text=Calca+Jeans",
+      "imagem": "https://lojalevis.vtexassets.com/arquivos/ids/502748/calca_jeans_levis_501_54_lavagem_media_A46770007_000-03.jpg?v=638255745521900000",
       "estoque": 40,
       "avaliacao": 4.6
     },
@@ -69,7 +69,7 @@
       "descricao": "Gang of Four - Padrões de Projeto",
       "preco": 129.90,
       "categoria": "livros",
-      "imagem": "https://via.placeholder.com/300x200?text=Design+Patterns",
+      "imagem": "https://m.media-amazon.com/images/I/81IGFC6oFmL._AC_UF1000,1000_QL80_.jpg",
       "estoque": 18,
       "avaliacao": 4.9
     },
@@ -89,7 +89,7 @@
       "descricao": "Impermeável, leve",
       "preco": 399.90,
       "categoria": "roupas",
-      "imagem": "https://via.placeholder.com/300x200?text=Jaqueta",
+      "imagem": "https://keychronbrasil.com.br/cdn/shop/files/Keychron-K2-Max-QMK-Wireless-Custom-Mechanical-Keyboard-RGB-Backlight-Aluminum-Frame-75percent-Layout-Fully-Assembled-for-Mac-Windows-Linux-Hot-Swappable-Keychron-Super-Red.jpg?v=1724441551&width=1080",
       "estoque": 22,
       "avaliacao": 4.4
     },
@@ -99,7 +99,7 @@
       "descricao": "Douglas Crockford",
       "preco": 79.90,
       "categoria": "livros",
-      "imagem": "https://via.placeholder.com/300x200?text=JavaScript",
+      "imagem": "https://m.media-amazon.com/images/I/7185IMvz88L._AC_UF1000,1000_QL80_.jpg",
       "estoque": 30,
       "avaliacao": 4.5
     },
@@ -109,7 +109,7 @@
       "descricao": "Full HD 1080p, microfone integrado",
       "preco": 449.00,
       "categoria": "eletronicos",
-      "imagem": "https://via.placeholder.com/300x200?text=Webcam",
+      "imagem": "https://m.media-amazon.com/images/I/71eGb1FcyiL.jpg",
       "estoque": 28,
       "avaliacao": 4.6
     },
@@ -119,7 +119,7 @@
       "descricao": "Conforto e estilo",
       "preco": 599.90,
       "categoria": "roupas",
-      "imagem": "https://via.placeholder.com/300x200?text=Tenis",
+      "imagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSU_C0zwo2EFbzhLmyz9kFCwTus-xQQmJKDxlQ6nHj836zQAunIsByXvfaDy3CvwYxQz9MRE5XpbEsLD38t4fMvmUCwDHnQh_JEMacrujfn9JzPpclaBaPBaxVwp-2XOwDp_oTZuK8&usqp=CAc",
       "estoque": 35,
       "avaliacao": 4.7
     }

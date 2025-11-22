@@ -1,0 +1,68 @@
+# Dependências
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Logs
+logs/
+*.log
+
+# Ambiente
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Build
+dist/
+build/
+out/
+
+# Cache
+.cache/
+.parcel-cache/
+
+# Temporários
+*.tmp
+*.temp
+.temp/
+
+# Backups
+*.bak
+*.backup
+```
+
+---
+
+**Estrutura completa:**
+```
+ecommerce-xhr-demo/
+├── .gitignore
+├── README.md
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   ├── ajax-handler.js
+│   ├── products.js
+│   ├── cart.js
+│   └── stats.js
+└── api/
+    └── produtos.json

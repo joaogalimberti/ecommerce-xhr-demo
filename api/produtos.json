@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "timestamp": "2024-11-22T10:30:00Z",
+  "timestamp": "2025-11-22T10:30:00Z",
   "total": 12,
   "produtos": [
     {
@@ -9,7 +9,7 @@
       "descricao": "Intel i7, 16GB RAM, SSD 512GB",
       "preco": 3599.90,
       "categoria": "eletronicos",
-      "imagem": "https://via.placeholder.com/300x200?text=Notebook",
+      "imagem": "https://imgs.casasbahia.com.br/55066981/5g.jpg?imwidth=500",
       "estoque": 15,
       "avaliacao": 4.5
     },

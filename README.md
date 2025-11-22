@@ -1401,28 +1401,8 @@ function carregarProdutos() {
 
 ### Precisa de Ajuda?
 
-- 📧 Email: joao@exemplo.com
-- 💬 Slack: #dev-help
-- 📖 Wiki: [Link para Wiki do projeto]
-- 🎥 Vídeo tutorial: [Link se houver]
+- 📧 Email: joaogalimberti@gmail.com
 
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-```
-MIT License
-
-Copyright (c) 2024 João Galimberti
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
-```
-
----
 
 ## 👏 Agradecimentos
 
@@ -1442,9 +1422,9 @@ Este projeto foi desenvolvido como material educacional para demonstrar:
 - Boas práticas de desenvolvimento web
 - Arquitetura modular de aplicações
 
-**Disciplina:** Arquitetura de Interoperabilidade Web  
-**Instituição:** [Nome da Instituição]  
-**Ano:** 2024
+**Disciplina:** Sistemas Web
+**Instituição:** UCL - Universidade Centro Leste 
+**Ano:** 2025
 
 ---
 
@@ -1452,7 +1432,7 @@ Este projeto foi desenvolvido como material educacional para demonstrar:
 
 ### ⭐ Se este projeto foi útil, considere dar uma estrela!
 
-**Desenvolvido com ❤️ por [João Galimberti](https://github.com/joaogalimberti)**
+**Desenvolvido por [João Galimberti](https://github.com/joaogalimberti)**
 
 [⬆ Voltar ao topo](#-e-commerce-brasil---xmlhttprequest-implementation)
 
